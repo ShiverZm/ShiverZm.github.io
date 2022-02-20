@@ -7,3 +7,5 @@
   hexo s #启动服务器 
 
   访问http://localhost:4000/即可
+
+3.添加githubaction
